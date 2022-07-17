@@ -1,7 +1,7 @@
 {
   "posts": [
     { "id": 1, "userName": "Yehor37", "password": "qwertY22", "name": "Єгор", "surname": "Попов", "age": "25", "weight": "85", "height": "195", "sex": "Чоловік", "active": "Висока активність (3-5 тренувань на тиждень)", "img": "https://i.ibb.co/JCH9JT2/photo.jpg"},
-    { "id": 2, "userName": "Pavuk", "password": "qwertY21", "name": "Valeria", "surname": "Liamets", "age": "24", "weight": "65", "height": "178", "sex": "Female", "active": "Moderate activity (1-2 training sessions per week)", "img": "https://i.ibb.co/28rjtgH/photo-2022-02-11-19-41-39.jpg" }
+    { "id": 2, "userName": "Pavuk", "password": "qwertY21", "name": "Valeria", "surname": "Liamets", "age": "24", "weight": "65", "height": "178", "sex": "Female", "active": "Moderate activity (1-2 training sessions per week)", "img": "https://i.ibb.co/3v6TsBZ/photo-2022-02-11-19-41-39.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
